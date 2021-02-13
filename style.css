@@ -1,0 +1,16 @@
+img {
+    height: 400px;
+    width: 600px;
+}
+
+div {
+    display: flex;
+
+}
+
+button {
+    margin-left: 10px;
+    height: 40px;
+    width: 100px;
+    
+}
